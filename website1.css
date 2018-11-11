@@ -1,0 +1,51 @@
+.navbar {
+    background: #5646A7
+}
+
+.img-circle { 
+	height: 270;
+	width: 220;
+	clip-path: circle(45% at center)
+}
+
+h4{
+	color: #C84384;
+}
+
+.img-square{
+	height: 250;
+	width 200;
+}
+
+h3{
+	colour: blue;
+}
+
+.new-img{
+	height: 270;
+	width: 452;
+}
+
+.surfing{
+	height:270;
+	width: 242;
+}
+
+.Central_Park{
+	height: 270;
+	width: 252;
+  }
+
+.Times_Square{
+ 	height: 270;
+ 	width: 442; 
+ }
+
+.Street{
+	height: 270;
+	width: 442;
+}
+.Brooklyn{
+	height:270;
+	width: 252;
+}
